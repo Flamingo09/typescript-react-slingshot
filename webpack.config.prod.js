@@ -87,6 +87,10 @@ export default {
         },
       },
       {
+        test: /\.d\.ts$/,
+        loader: 'ignore-loader'
+      },
+      {
         test: /\.eot(\?v=\d+.\d+.\d+)?$/,
         use: [
           {
