@@ -5,7 +5,6 @@ Typescript with react-hot-load is enabled using babel-loader, by following this 
 All commands and configurations are same as react-slingshot. Just have added my eslintrc and tsconfig, which users can edit according to their need.
 Have upgraded to webpack 4.44.0
 
-This is all set to be used as template. 
+This is all set to be used as template.
 
 If you find any issue, please raise it, also if you notice some improvements, feel free to raise MR.
-
